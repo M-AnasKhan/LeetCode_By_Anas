@@ -6,4 +6,4 @@ Programmer (Muhammad Anas Khan) git branch
 
 <br>
 
-here is the solution of the problems
+here is the solution of the problem
