@@ -1,4 +1,5 @@
 # This is the hard problem solution "Median of Two Sorted Arrays"
+# This is one of the hard problem in Leetcode.
 
 class Solution:
     def findMedianSortedArrays(self, nums1: list[int], nums2: list[int]) -> float:
